@@ -1,0 +1,28 @@
+PROYECTO REACT
+----------------------------------
+npx create-react-app NOMBREPROYECTO
+---------------------------------
+
+ROUTER
+------------------------------
+npm install --save react-router-dom
+------------------------------
+
+
+AXIOS
+-------------------------------
+npm install --save axios
+
+-------------------------------
+
+
+JQUERY Y POPPER
+-------------------------------
+npm install jquery popper.js
+-------------------------------
+
+
+BOOTSTRAP
+----------------------------
+npm install bootstrap --save
+--------------------------
